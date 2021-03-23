@@ -1,0 +1,16 @@
+{
+  "name": "googlescraper",
+  "version": "1.0.0",
+  "description": "A script to scrape google reviews",
+  "main": "new.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "xwedea",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^5.5.0"
+  },
+  "devDependencies": {}
+}
