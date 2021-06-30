@@ -1,3 +1,3 @@
 # googleScraper
 
-A script to scrape google reviews.
+A puppeteer script to scrape google reviews.
